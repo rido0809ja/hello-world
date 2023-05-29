@@ -1,2 +1,1 @@
-# hello-world
-my first repo
+my first readme
